@@ -1,6 +1,7 @@
 # X-hash
 Hash implementation for use in different languages
 ## Developed by Codelogy
+</br>
 Telegram Channel: <a href="https://t.me/codelogy"> @CodeLogy </a>
 version = 1.0
 </br>
