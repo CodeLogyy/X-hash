@@ -17,5 +17,5 @@ Tron: TFh9cM5eCsdXZgv3wdkhtiG1Hvddh48LAi
 - SHA384 
 - SHA512
 - SHA1
-<pre><code>
+</pre></code>
 
