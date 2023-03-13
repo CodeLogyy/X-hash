@@ -22,8 +22,8 @@ Tron: TFh9cM5eCsdXZgv3wdkhtiG1Hvddh48LAi
 Windows
 ## Example
 Example of using x-hash in c++<br>
-<code>
- #include <iostream>
+<pre><code>
+#include <iostream>
 #include <Windows.h>
 
 typedef std::string(*MD5)(std::string);
@@ -95,4 +95,4 @@ int main() {
     FreeLibrary(hDLL);
     return 0;
 }
- </code>
+</pre></code>
