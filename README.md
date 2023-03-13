@@ -23,9 +23,6 @@ Windows
 ## Example
 Example of using x-hash in c++<br>
 <pre><code>
-#include <iostream>
-#include <Windows.h>
-
 typedef std::string(*MD5)(std::string);
 typedef std::string(*SHA256)(std::string);
 typedef std::string(*SHA1)(std::string);
