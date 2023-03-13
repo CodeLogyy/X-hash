@@ -22,3 +22,10 @@ Tron: TFh9cM5eCsdXZgv3wdkhtiG1Hvddh48LAi
 Windows
 ## Example
 Example of using x-hash in c++:<br>
+<h1 align="center">
+  <br>
+ <img src="https://raw.githubusercontent.com/CodeLogyy/X-hash/main/EX.png" alt="codelogy"></a>
+  <br>
+  Hashlogy
+  <br>
+</h1>
