@@ -26,6 +26,6 @@ Example of using x-hash in c++:<br>
   <br>
  <img src="https://raw.githubusercontent.com/CodeLogyy/X-hash/main/EX.png" alt="codelogy"></a>
   <br>
-  Hashlogy
+  codelogy
   <br>
 </h1>
